@@ -1,0 +1,94 @@
+.footer-container {
+  background-color: #111;
+  color: #bde2bd;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.logo-section h2 {
+  font-size: 1.8rem;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.logo-section p {
+  font-size: 16px;
+  color: #ddd;
+}
+
+.footer-links h4, 
+.social-media h4 {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.footer-links a,
+.social-media a {
+  color: #bde2bd;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display: block;
+  font-size: 0.95rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.footer-links a:hover,
+.social-media a:hover {
+  color: #ffffff;
+  transform: translateX(5px);
+}
+
+.footer-bottom {
+  margin-top: 2rem;
+  border-top: 1px solid #555;
+  padding-top: 1rem;
+}
+
+.footer-bottom p {
+  font-size: 14px;
+  color: #bbb;
+}
+
+.social-media a i {
+  margin-right: 10px;
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+.social-media a i:hover {
+  color: #bde2bd;
+}
+
+.logo-footer {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+span {
+  color: #bde2bd; 
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+  .footer-content {
+    grid-template-columns: 1fr; /* تغيير إلى عمود واحد على الشاشات الصغيرة */
+    text-align: center;
+  }
+
+  .footer-links,
+  .social-media {
+    margin-top: 1rem; /* إضافة مسافة بين الأقسام */
+  }
+}
+
+
+
+  

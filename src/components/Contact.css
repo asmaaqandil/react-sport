@@ -1,0 +1,117 @@
+.contact-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    gap: 2rem;
+  }
+  
+  .image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .player-image {
+    width: 180px;
+    height: auto;
+   
+
+  }
+  
+  .form-container {
+    flex: 2;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .form-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+  
+  .form-group textarea {
+    height: 100px;
+  }
+  
+  .submit-button {
+    background-color: #207a45;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #000;
+  }
+  /* Styles for screens larger than 768px */
+@media (max-width: 768px) {
+  .contact-section {
+    flex-direction: column; /* تغيير الاتجاه إلى عمودي */
+    align-items: stretch; /* جعل العناصر تمتد لملء العرض */
+  }
+
+  .image-container {
+    margin-bottom: 20px; /* إضافة مساحة أسفل الصور */
+    justify-content: center; /* تركيز الصور */
+  }
+
+  .player-image {
+    width: 150px; /* تقليل حجم الصور */
+  }
+
+  .form-container {
+    width: 100%; /* جعل نموذج الاتصال يمتد على العرض الكامل */
+    padding: 15px; /* تقليل الحشو */
+  }
+}
+
+/* Styles for smaller screens */
+@media (max-width: 480px) {
+  .form-container h2 {
+    font-size: 20px; /* تقليل حجم العنوان */
+  }
+
+  .form-group label {
+    font-size: 12px; /* تقليل حجم الخط للتسميات */
+  }
+
+  .form-group input,
+  .form-group textarea {
+    font-size: 14px; /* تقليل حجم الخط في الحقول */
+  }
+
+  .submit-button {
+    padding: 10px 15px; /* تقليل الحشو في زر الإرسال */
+    font-size: 14px; /* تقليل حجم الخط في الزر */
+  }
+}
+
+  
