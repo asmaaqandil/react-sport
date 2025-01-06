@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-sport/static/css/main.c49eebd1.css",
+    "main.js": "/react-sport/static/js/main.27bc3b15.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-sport/static/js/453.ed3810f9.chunk.js",
+    "static/media/shoe4.png": "/react-sport/static/media/shoe4.47e8fefdd46ad6e9b2b8.png",
+    "static/media/t-shert3.png": "/react-sport/static/media/t-shert3.5f188af9212ce5f4548c.png",
+    "static/media/shoe6.png": "/react-sport/static/media/shoe6.1c7e525bf16eac11cf77.png",
+    "static/media/t-shert1.png": "/react-sport/static/media/t-shert1.46d6390ac5c0a3a2f8cc.png",
+    "static/media/sport.png": "/react-sport/static/media/sport.f4619e024abda2b9a322.png",
+    "static/media/neymarImage.png": "/react-sport/static/media/neymarImage.0f5158cb2879bee0d9e4.png",
+    "static/media/salahImage.png": "/react-sport/static/media/salahImage.8213b7656f49b0c2c68d.png",
+    "static/media/shoe5.png": "/react-sport/static/media/shoe5.6158b2b0db41052d7338.png",
+    "static/media/t-shert5.png": "/react-sport/static/media/t-shert5.0188c14159d3e027a840.png",
+    "static/media/t-shert6.png": "/react-sport/static/media/t-shert6.469c34fdbf6edee3c9c5.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-sport/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/shoe2.png": "/react-sport/static/media/shoe2.77b86968a48313fb3521.png",
+    "static/media/sport2.png": "/react-sport/static/media/sport2.cdd4cb799ac5c2955c49.png",
+    "static/media/t-shert4.png": "/react-sport/static/media/t-shert4.bd97a63851874f47b180.png",
+    "static/media/t-shert2.png": "/react-sport/static/media/t-shert2.d6499b0cb885735f329f.png",
+    "static/media/shoe3.png": "/react-sport/static/media/shoe3.60cf35090c63feb31288.png",
+    "static/media/shoe1.png": "/react-sport/static/media/shoe1.34df82b23ee6b66b2c34.png",
+    "static/media/fontawesome-webfont.eot": "/react-sport/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-sport/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-sport/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-sport/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/react-sport/static/media/logo.9d513ca2918ef0f2ef09.png",
+    "static/media/review4.jpg": "/react-sport/static/media/review4.7c53483780e0c0033070.jpg",
+    "static/media/review1.jpg": "/react-sport/static/media/review1.4c4fb4c2e59f3849f7cb.jpg",
+    "static/media/review5.jpg": "/react-sport/static/media/review5.aad55e36aeca77365022.jpg",
+    "static/media/review3.jfif": "/react-sport/static/media/review3.b2d822470b51a984a7ee.jfif",
+    "static/media/review2.jfif": "/react-sport/static/media/review2.3780ae300a4b416a0493.jfif",
+    "index.html": "/react-sport/index.html",
+    "main.c49eebd1.css.map": "/react-sport/static/css/main.c49eebd1.css.map",
+    "main.27bc3b15.js.map": "/react-sport/static/js/main.27bc3b15.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-sport/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49eebd1.css",
+    "static/js/main.27bc3b15.js"
+  ]
+}
